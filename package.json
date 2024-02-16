@@ -19,6 +19,7 @@
     },
     "dependencies": {
         "@popperjs/core": "^2.11.8",
+        "dayjs": "^1.11.10",
         "moment": "^2.30.1",
         "vue-functional-calendar": "^2.9.98",
         "vue-tailwind-datepicker": "^1.6.5"
