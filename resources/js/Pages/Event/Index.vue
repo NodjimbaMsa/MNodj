@@ -63,7 +63,7 @@ const dateRangePickerSubmit = () => {
     dateForm.endDate = dateValue.value.endDate;
     console.log(dateForm);
     if (dateForm.startDate && dateForm.endDate) {
-        dateForm.get(route("events.getSelected"));
+        dateFrom.get(route("events.getSelected"));
     }
 }
 
